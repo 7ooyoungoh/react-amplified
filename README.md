@@ -1,4 +1,4 @@
-# Creating a Backend for a Simple TODO App
+# Creating a Backend for a Simple TODO App Using AWS Amplify Microservices
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app) and was hosted [HERE](https://dev.d3n8r732j3xw7y.amplifyapp.com/) via AWS Amplify Console.
 ## Available Scripts

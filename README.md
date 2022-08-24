@@ -1,6 +1,11 @@
 # Creating a Backend for a Simple TODO App Using AWS Amplify Microservices
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app) and was hosted [HERE](https://dev.d3n8r732j3xw7y.amplifyapp.com/) via AWS Amplify Console.
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app) and was hosted [HERE](https://dev.d3n8r732j3xw7y.amplifyapp.com/) via AWS Amplify Console. This project also features the following functionalities:
+
+* Authentication using [AWS Cognito](https://aws.amazon.com/cognito/)
+* GraphQL API using [AWS AppSync](https://aws.amazon.com/appsync/)
+* User Management using [AWS IAM](https://aws.amazon.com/iam/)
+
 ## Available Scripts
 
 In the project directory, you can run:
@@ -38,32 +43,18 @@ Instead, it will copy all the configuration files and the transitive dependencie
 
 You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
 
-## For Future Reference:
+## Additional Resources:
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+* [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+* [React documentation](https://reactjs.org/)
 
-### Code Splitting
+* [Code Splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+* [Analyzing the Bundle Size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
 
-### Analyzing the Bundle Size
+* [Making a Progressive Web App](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+* [Advanced Configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
 
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+* [Deployment](https://facebook.github.io/create-react-app/docs/deployment)
